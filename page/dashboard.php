@@ -59,7 +59,7 @@ $name = $_SESSION['name'];
                 <li><a class="fa fa-group" href="event.php"> &nbsp;Event</a></li>
                 <li><a class="fa fa-handshake-o" href="client.php"> &nbsp;Client</a></li>
                 <li><a class="fa fa-image" href="gallery.php"> &nbsp;Gallery</a></li>
-                <li><a class="fa fa-male" href="../index.php">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Logout</a></li>
+                <li><a class="fa fa-male" href="../auth/logout.php">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Logout</a></li>
             </ul>
         </aside>
 
